@@ -4,11 +4,11 @@
   "main": "src/index.ts",
   "compatibility_date": "2026-03-15"
   // "compatibility_flags": [
-  //   "nodejs_compat"
-  // ],
-  // "vars": {
-  //   "MY_VAR": "my-variable"
-  // },
+  //   "nodejs_compat"]
+   ,
+  "vars": {
+    "JWT_SECRET":"ASDGSDHKJ1243"
+  }
   // "kv_namespaces": [
   //   {
   //     "binding": "MY_KV_NAMESPACE",
