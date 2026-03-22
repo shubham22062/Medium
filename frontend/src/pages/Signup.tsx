@@ -1,5 +1,7 @@
+import { Auth } from "../components/Auth"
+
 export const Signup = () =>{
     return <div>
-        <h1>sigup page</h1>
+        <Auth />
     </div>
 }
